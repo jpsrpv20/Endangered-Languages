@@ -1,4 +1,4 @@
-# (Endangered Languages Exploration)
+# Endangered Languages Exploration
 ## by Jean Pierre Simons Rondona
 
 
