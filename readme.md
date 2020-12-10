@@ -3,7 +3,8 @@
 
 
 ## Dataset
-This dataset was published by The Guardian (here). It aims to provide data insights on how many endangered languages there are in the World and what are the chances they will die out completely.
+This dataset was published by The Guardian (<a href='https://www.theguardian.com/news/datablog/2011/apr/15/language-extinct-endangered#data'>here</a>). It aims to provide data insights on how many endangered languages there are in the World and what are the chances they will die out completely.
+
 
 UNESCO provide a classification system to show just how 'in trouble' the language is:
 
@@ -12,7 +13,7 @@ Definitely endangered - children no longer learn the language as a 'mother tongu
 Severely endangered - language is spoken by grandparents and older generations; while the parent generation may understand it, they do not speak it to children or among themselves
 Critically endangered - the youngest speakers are grandparents and older, and they speak the language partially and infrequently
 Extinct - there are no speakers left
-In addition, I also included information on World Population by country from Worldometer via Kaggle (here).
+In addition, I also included information on World Population by country from Worldometer via Kaggle (<a href='https://www.kaggle.com/tanuprabhu/population-by-country-2020'>here</a>).
 
 In the study below I intend to answer the following questions:
 
